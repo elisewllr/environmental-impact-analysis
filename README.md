@@ -1,3 +1,22 @@
 # environmental-impact-analysis
-Life Cycle Assessment of Aluminum Distribution in Cosmetic Products
-Conducted a semester-long sustainability and environmental impact assessment analyzing aluminum distribution in cosmetic products. The project utilized Python, Jupyter Notebook, ontology modeling, and geospatial analysis to investigate environmental implications associated with material sourcing and waste streams.
+# Life Cycle Assessment of Aluminum in Cosmetic Products
+
+## Overview
+Semester-long environmental sustainability research project analyzing aluminum distribution and environmental impacts associated with cosmetic products.
+
+## Methods and Tools
+- Python
+- Jupyter Notebook
+- Data Visualization
+- Protégé Ontology Modeling
+- Geospatial Analysis
+- Life Cycle Assessment (LCA)
+
+## Project Components
+- Environmental impact analysis
+- Geospatial distribution visualizations
+- Sustainability research paper
+- Technical presentation materials
+
+## Research Focus
+This project investigated aluminum sourcing, environmental distribution, and sustainability implications through computational and qualitative analysis methods.
