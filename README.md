@@ -4,7 +4,7 @@
 ## Overview
 Semester-long environmental sustainability research project analyzing aluminum distribution and environmental impacts associated with cosmetic products.
 
-## Methods and Tools
+## Methods/Tools
 - Python
 - Jupyter Notebook
 - Data Visualization
@@ -16,7 +16,8 @@ Semester-long environmental sustainability research project analyzing aluminum d
 - Environmental impact analysis
 - Geospatial distribution visualizations
 - Sustainability research paper
-- Technical presentation materials
+- Life Cycle Assessment (LCA)
+- Life Cycle Impact Assessment (LCIA)
 
 ## Research Focus
-This project investigated aluminum sourcing, environmental distribution, and sustainability implications through computational and qualitative analysis methods.
+Project investigated aluminum sourcing, environmental distribution, and sustainability implications through computational and qualitative analysis methods.
