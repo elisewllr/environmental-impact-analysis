@@ -1,10 +1,10 @@
 # environmental-impact-analysis
-# Life Cycle Assessment of Aluminum in Cosmetic Products
+# Life Cycle Assessment (LCA) of Aluminum in Cosmetic Products
 
 ## Overview
-Semester-long environmental sustainability research project analyzing aluminum distribution and environmental impacts associated with cosmetic products.
+The following project details a semester-long environmental sustainability research endeavor that aimed to analyze aluminum distribution and environmental impacts associated with cosmetic products. This research was supported by the Georgia National Uranium Resource Evaluation (NURE) dataset. 
 
-## Methods/Tools
+## Methods & Tools
 - Python
 - Jupyter Notebook
 - Data Visualization
@@ -20,4 +20,4 @@ Semester-long environmental sustainability research project analyzing aluminum d
 - Life Cycle Impact Assessment (LCIA)
 
 ## Research Focus
-Project investigated aluminum sourcing, environmental distribution, and sustainability implications through computational and qualitative analysis methods.
+This project investigates aluminum sourcing and distribution, as well as sustainability implications through computational and qualitative analysis methods.
